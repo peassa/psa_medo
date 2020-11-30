@@ -4,6 +4,7 @@
 
 The / me or do command allows you to display a specific action above the head of a player. It's particularly used for actions that couldn't have been done in game in a roleplay context.
 
+
 # Installation
 Download the resource ;
 Drag and drop it into your resources folder ;
